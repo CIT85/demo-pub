@@ -10,7 +10,7 @@ body {
 /* SHARED STYLES: All boxes get these rules */
 .swatch {
     height: 150px;
-    width: 100%;
+    width: 95%;
     margin-bottom: 20px;
     padding: 20px;
     /* Customized border and added border-radius */
@@ -23,12 +23,12 @@ body {
 
 /* 1. Primary Color */
 .primary {
-    background-color: #E63946; 
+    background-color: #E67E22; 
 }
 
 /* 2. Accent Color */
 .accent {
-    background-color: #1D3557; 
+    background-color: #2C3E50; 
 }
 
 /* 3. Text/Light Color */
